@@ -1,0 +1,187 @@
+C:\Users\nazmi\source\repos\MvcBlog\MvcBlog\bin\MvcBlog.dll.config
+C:\Users\nazmi\source\repos\MvcBlog\MvcBlog\bin\MvcBlog.dll
+C:\Users\nazmi\source\repos\MvcBlog\MvcBlog\bin\MvcBlog.pdb
+C:\Users\nazmi\source\repos\MvcBlog\MvcBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nazmi\source\repos\MvcBlog\MvcBlog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nazmi\source\repos\MvcBlog\MvcBlog\bin\System.Web.Helpers.dll
+C:\Users\nazmi\source\repos\MvcBlog\MvcBlog\bin\System.Web.Mvc.dll
+C:\Users\nazmi\source\repos\MvcBlog\MvcBlog\bin\System.Web.Razor.dll
+C:\Users\nazmi\source\repos\MvcBlog\MvcBlog\bin\System.Web.Webpages.Deployment.dll
+C:\Users\nazmi\source\repos\MvcBlog\MvcBlog\bin\System.Web.Webpages.dll
+C:\Users\nazmi\source\repos\MvcBlog\MvcBlog\bin\System.Web.Webpages.Razor.dll
+C:\Users\nazmi\source\repos\MvcBlog\MvcBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nazmi\source\repos\MvcBlog\MvcBlog\bin\System.Web.Razor.xml
+C:\Users\nazmi\source\repos\MvcBlog\MvcBlog\bin\System.Web.Webpages.xml
+C:\Users\nazmi\source\repos\MvcBlog\MvcBlog\bin\System.Web.Webpages.Deployment.xml
+C:\Users\nazmi\source\repos\MvcBlog\MvcBlog\bin\System.Web.Webpages.Razor.xml
+C:\Users\nazmi\source\repos\MvcBlog\MvcBlog\bin\System.Web.Helpers.xml
+C:\Users\nazmi\source\repos\MvcBlog\MvcBlog\bin\System.Web.Mvc.xml
+C:\Users\nazmi\source\repos\MvcBlog\MvcBlog\bin\tr\System.Web.Razor.resources.dll
+C:\Users\nazmi\source\repos\MvcBlog\MvcBlog\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\nazmi\source\repos\MvcBlog\MvcBlog\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\nazmi\source\repos\MvcBlog\MvcBlog\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\nazmi\source\repos\MvcBlog\MvcBlog\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\nazmi\source\repos\MvcBlog\MvcBlog\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\nazmi\source\repos\MvcBlog\MvcBlog\obj\Debug\MvcBlog.csproj.CoreCompileInputs.cache
+C:\Users\nazmi\source\repos\MvcBlog\MvcBlog\obj\Debug\MvcBlog.dll
+C:\Users\nazmi\source\repos\MvcBlog\MvcBlog\obj\Debug\MvcBlog.pdb
+C:\Users\nazmi\source\repos\MvcBlog\MvcBlog\bin\EntityFramework.dll
+C:\Users\nazmi\source\repos\MvcBlog\MvcBlog\bin\EntityFramework.SqlServer.dll
+C:\Users\nazmi\source\repos\MvcBlog\MvcBlog\bin\EntityFramework.xml
+C:\Users\nazmi\source\repos\MvcBlog\MvcBlog\bin\EntityFramework.SqlServer.xml
+C:\Users\nazmi\source\repos\MvcBlog\MvcBlog\bin\PagedList.dll
+C:\Users\nazmi\source\repos\MvcBlog\MvcBlog\bin\PagedList.Mvc.dll
+C:\Users\nazmi\source\repos\MvcBlog\MvcBlog\bin\PagedList.xml
+C:\Users\nazmi\source\repos\MvcBlog\MvcBlog\bin\PagedList.Mvc.xml
+C:\Users\nazmi\source\repos\MvcBlog\MvcBlog\bin\AspNet.Mvc.Grid.dll
+C:\Users\nazmi\source\repos\MvcBlog\MvcBlog\bin\GridMvc.dll
+C:\Users\nazmi\source\repos\MvcBlog\MvcBlog\obj\Debug\MvcBlog.csprojResolveAssemblyReference.cache
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\Asp.Net-MVC-master\Proje Kod Kısmı\MvcBlog\MvcBlog\bin\MvcBlog.dll.config
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\Asp.Net-MVC-master\Proje Kod Kısmı\MvcBlog\MvcBlog\bin\MvcBlog.dll
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\Asp.Net-MVC-master\Proje Kod Kısmı\MvcBlog\MvcBlog\bin\MvcBlog.pdb
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\Asp.Net-MVC-master\Proje Kod Kısmı\MvcBlog\MvcBlog\bin\AspNet.Mvc.Grid.dll
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\Asp.Net-MVC-master\Proje Kod Kısmı\MvcBlog\MvcBlog\bin\EntityFramework.dll
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\Asp.Net-MVC-master\Proje Kod Kısmı\MvcBlog\MvcBlog\bin\EntityFramework.SqlServer.dll
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\Asp.Net-MVC-master\Proje Kod Kısmı\MvcBlog\MvcBlog\bin\GridMvc.dll
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\Asp.Net-MVC-master\Proje Kod Kısmı\MvcBlog\MvcBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\Asp.Net-MVC-master\Proje Kod Kısmı\MvcBlog\MvcBlog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\Asp.Net-MVC-master\Proje Kod Kısmı\MvcBlog\MvcBlog\bin\PagedList.dll
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\Asp.Net-MVC-master\Proje Kod Kısmı\MvcBlog\MvcBlog\bin\PagedList.Mvc.dll
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\Asp.Net-MVC-master\Proje Kod Kısmı\MvcBlog\MvcBlog\bin\System.Web.Helpers.dll
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\Asp.Net-MVC-master\Proje Kod Kısmı\MvcBlog\MvcBlog\bin\System.Web.Mvc.dll
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\Asp.Net-MVC-master\Proje Kod Kısmı\MvcBlog\MvcBlog\bin\System.Web.Razor.dll
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\Asp.Net-MVC-master\Proje Kod Kısmı\MvcBlog\MvcBlog\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\Asp.Net-MVC-master\Proje Kod Kısmı\MvcBlog\MvcBlog\bin\System.Web.Webpages.dll
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\Asp.Net-MVC-master\Proje Kod Kısmı\MvcBlog\MvcBlog\bin\System.Web.Webpages.Razor.dll
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\Asp.Net-MVC-master\Proje Kod Kısmı\MvcBlog\MvcBlog\bin\EntityFramework.xml
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\Asp.Net-MVC-master\Proje Kod Kısmı\MvcBlog\MvcBlog\bin\EntityFramework.SqlServer.xml
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\Asp.Net-MVC-master\Proje Kod Kısmı\MvcBlog\MvcBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\Asp.Net-MVC-master\Proje Kod Kısmı\MvcBlog\MvcBlog\bin\PagedList.xml
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\Asp.Net-MVC-master\Proje Kod Kısmı\MvcBlog\MvcBlog\bin\PagedList.Mvc.xml
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\Asp.Net-MVC-master\Proje Kod Kısmı\MvcBlog\MvcBlog\bin\System.Web.Razor.xml
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\Asp.Net-MVC-master\Proje Kod Kısmı\MvcBlog\MvcBlog\bin\System.Web.Webpages.xml
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\Asp.Net-MVC-master\Proje Kod Kısmı\MvcBlog\MvcBlog\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\Asp.Net-MVC-master\Proje Kod Kısmı\MvcBlog\MvcBlog\bin\System.Web.Webpages.Razor.xml
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\Asp.Net-MVC-master\Proje Kod Kısmı\MvcBlog\MvcBlog\bin\System.Web.Helpers.xml
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\Asp.Net-MVC-master\Proje Kod Kısmı\MvcBlog\MvcBlog\bin\System.Web.Mvc.xml
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\Asp.Net-MVC-master\Proje Kod Kısmı\MvcBlog\MvcBlog\bin\tr\System.Web.Razor.resources.dll
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\Asp.Net-MVC-master\Proje Kod Kısmı\MvcBlog\MvcBlog\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\Asp.Net-MVC-master\Proje Kod Kısmı\MvcBlog\MvcBlog\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\Asp.Net-MVC-master\Proje Kod Kısmı\MvcBlog\MvcBlog\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\Asp.Net-MVC-master\Proje Kod Kısmı\MvcBlog\MvcBlog\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\Asp.Net-MVC-master\Proje Kod Kısmı\MvcBlog\MvcBlog\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\Asp.Net-MVC-master\Proje Kod Kısmı\MvcBlog\MvcBlog\obj\Debug\MvcBlog.csprojResolveAssemblyReference.cache
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\Asp.Net-MVC-master\Proje Kod Kısmı\MvcBlog\MvcBlog\obj\Debug\MvcBlog.dll
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\Asp.Net-MVC-master\Proje Kod Kısmı\MvcBlog\MvcBlog\obj\Debug\MvcBlog.pdb
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\MvcBlog.dll.config
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\MvcBlog.dll
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\MvcBlog.pdb
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\AspNet.Mvc.Grid.dll
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\EntityFramework.dll
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\EntityFramework.SqlServer.dll
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\GridMvc.dll
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\PagedList.dll
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\PagedList.Mvc.dll
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\System.Web.Helpers.dll
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\System.Web.Mvc.dll
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\System.Web.Razor.dll
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\System.Web.Webpages.dll
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\System.Web.Webpages.Razor.dll
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\EntityFramework.xml
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\EntityFramework.SqlServer.xml
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\PagedList.xml
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\PagedList.Mvc.xml
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\System.Web.Razor.xml
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\System.Web.Webpages.xml
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\System.Web.Webpages.Razor.xml
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\System.Web.Helpers.xml
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\System.Web.Mvc.xml
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\tr\System.Web.Razor.resources.dll
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\obj\Debug\MvcBlog.csprojResolveAssemblyReference.cache
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\obj\Debug\MvcBlog.dll
+C:\Users\ALP\Desktop\Asp.Net-MVC-master\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\obj\Debug\MvcBlog.pdb
+E:\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\MvcBlog.dll.config
+E:\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\MvcBlog.dll
+E:\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\MvcBlog.pdb
+E:\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\AspNet.Mvc.Grid.dll
+E:\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\EntityFramework.dll
+E:\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\EntityFramework.SqlServer.dll
+E:\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\GridMvc.dll
+E:\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\Microsoft.Web.Infrastructure.dll
+E:\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\PagedList.dll
+E:\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\PagedList.Mvc.dll
+E:\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\System.Web.Helpers.dll
+E:\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\System.Web.Mvc.dll
+E:\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\System.Web.Razor.dll
+E:\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\System.Web.Webpages.Deployment.dll
+E:\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\System.Web.Webpages.dll
+E:\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\System.Web.Webpages.Razor.dll
+E:\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\EntityFramework.xml
+E:\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\EntityFramework.SqlServer.xml
+E:\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\PagedList.xml
+E:\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\PagedList.Mvc.xml
+E:\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\System.Web.Razor.xml
+E:\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\System.Web.Webpages.xml
+E:\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\System.Web.Webpages.Deployment.xml
+E:\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\System.Web.Webpages.Razor.xml
+E:\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\System.Web.Helpers.xml
+E:\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\System.Web.Mvc.xml
+E:\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\tr\System.Web.Razor.resources.dll
+E:\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\tr\System.Web.Webpages.resources.dll
+E:\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\tr\System.Web.Webpages.Deployment.resources.dll
+E:\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\tr\System.Web.Webpages.Razor.resources.dll
+E:\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\tr\System.Web.Helpers.resources.dll
+E:\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\tr\System.Web.Mvc.resources.dll
+E:\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\obj\Debug\MvcBlog.dll
+E:\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\obj\Debug\MvcBlog.pdb
+D:\Yeni klasör\c sharp ödev eski\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\MvcBlog.dll.config
+D:\Yeni klasör\c sharp ödev eski\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\MvcBlog.dll
+D:\Yeni klasör\c sharp ödev eski\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\MvcBlog.pdb
+D:\Yeni klasör\c sharp ödev eski\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\AspNet.Mvc.Grid.dll
+D:\Yeni klasör\c sharp ödev eski\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\EntityFramework.dll
+D:\Yeni klasör\c sharp ödev eski\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\EntityFramework.SqlServer.dll
+D:\Yeni klasör\c sharp ödev eski\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\GridMvc.dll
+D:\Yeni klasör\c sharp ödev eski\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Yeni klasör\c sharp ödev eski\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\Microsoft.Web.Infrastructure.dll
+D:\Yeni klasör\c sharp ödev eski\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\PagedList.dll
+D:\Yeni klasör\c sharp ödev eski\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\PagedList.Mvc.dll
+D:\Yeni klasör\c sharp ödev eski\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\System.Web.Helpers.dll
+D:\Yeni klasör\c sharp ödev eski\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\System.Web.Mvc.dll
+D:\Yeni klasör\c sharp ödev eski\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\System.Web.Razor.dll
+D:\Yeni klasör\c sharp ödev eski\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\System.Web.Webpages.Deployment.dll
+D:\Yeni klasör\c sharp ödev eski\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\System.Web.Webpages.dll
+D:\Yeni klasör\c sharp ödev eski\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\System.Web.Webpages.Razor.dll
+D:\Yeni klasör\c sharp ödev eski\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\EntityFramework.xml
+D:\Yeni klasör\c sharp ödev eski\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\EntityFramework.SqlServer.xml
+D:\Yeni klasör\c sharp ödev eski\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Yeni klasör\c sharp ödev eski\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\PagedList.xml
+D:\Yeni klasör\c sharp ödev eski\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\PagedList.Mvc.xml
+D:\Yeni klasör\c sharp ödev eski\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\System.Web.Razor.xml
+D:\Yeni klasör\c sharp ödev eski\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\System.Web.Webpages.xml
+D:\Yeni klasör\c sharp ödev eski\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\System.Web.Webpages.Deployment.xml
+D:\Yeni klasör\c sharp ödev eski\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\System.Web.Webpages.Razor.xml
+D:\Yeni klasör\c sharp ödev eski\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\System.Web.Helpers.xml
+D:\Yeni klasör\c sharp ödev eski\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\System.Web.Mvc.xml
+D:\Yeni klasör\c sharp ödev eski\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\tr\System.Web.Razor.resources.dll
+D:\Yeni klasör\c sharp ödev eski\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\tr\System.Web.Webpages.resources.dll
+D:\Yeni klasör\c sharp ödev eski\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\tr\System.Web.Webpages.Deployment.resources.dll
+D:\Yeni klasör\c sharp ödev eski\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\tr\System.Web.Webpages.Razor.resources.dll
+D:\Yeni klasör\c sharp ödev eski\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\tr\System.Web.Helpers.resources.dll
+D:\Yeni klasör\c sharp ödev eski\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\bin\tr\System.Web.Mvc.resources.dll
+D:\Yeni klasör\c sharp ödev eski\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\obj\Debug\MvcBlog.csprojAssemblyReference.cache
+D:\Yeni klasör\c sharp ödev eski\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\obj\Debug\MvcBlog.csproj.CoreCompileInputs.cache
+D:\Yeni klasör\c sharp ödev eski\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\obj\Debug\MvcBlog.csproj.CopyComplete
+D:\Yeni klasör\c sharp ödev eski\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\obj\Debug\MvcBlog.dll
+D:\Yeni klasör\c sharp ödev eski\MVCBLOG\Asp.Net-MVC\AlpMVCBLOG\Main Project\MvcBlog\MvcBlog\obj\Debug\MvcBlog.pdb
